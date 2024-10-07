@@ -1,0 +1,9 @@
+{
+  "name": "typescript-blueprint-template",
+  "version": "1.0.0",
+  "description": "A Typescript AVS Blueprint for Tangle / Eigenlayer / and other restaking infrastructures.",
+  "main": "index.js",
+  "repository": "https://github.com/webb-tools/typescript-blueprint-template",
+  "author": "hello@webb.tools",
+  "license": "MIT"
+}
