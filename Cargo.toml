@@ -19,7 +19,7 @@ serde = { version = "1.0.210", features = ["derive"] }
 serde_json = { version = "1.0.128" }
 structopt = "0.3.26"
 color-eyre = "0.6"
-tokio = { version = "1.39", default-features = false, features = ["full"] }
+tokio = { version = "1.41", default-features = false, features = ["full"] }
 tracing-subscriber = { version = "0.3", features = ["parking_lot", "env-filter"] }
 gadget-sdk = { git = "https://github.com/webb-tools/gadget", default-features = false, features = ["std", "getrandom"] }
 parking_lot = "0.12.3"
