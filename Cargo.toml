@@ -23,7 +23,7 @@ tokio = { version = "1.39", default-features = false, features = ["full"] }
 tracing-subscriber = { version = "0.3", features = ["parking_lot", "env-filter"] }
 gadget-sdk = { git = "https://github.com/webb-tools/gadget", default-features = false, features = ["std", "getrandom"] }
 parking_lot = "0.12.3"
-deno_core = "0.311.0"
+deno_core = "0.319.0"
 
 # Boa JS runtime
 
